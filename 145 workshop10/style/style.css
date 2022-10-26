@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
+.calc{
+    width: 50%;
+    background-color: #a38f99;
+    color: #ffffff;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 100px;
+    text-align: center;
+    
+}
+input{
+    background-color: #44f0dc;
+    color: #000000;
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.chek{
+    background-color: #0c6a5f;
+    padding: 10px;
+   
+}
+.chek:hover{
+    cursor: pointer;
+    background-color: #439b8f;
+}
+.answer{
+ width: 50%;
+ background-color: #5eb7ad;
+ text-align: center;
+ margin: 0 auto;
+ margin-top: 10px;
+height: 50px;
+padding: 15px;
+}
+
